@@ -1,0 +1,36 @@
+{
+  "version": "v5.116 Clean Release",
+  "status": "PASS",
+  "checks": {
+    "app_js_syntax_ok": true,
+    "sw_js_syntax_ok": true,
+    "cache_name_clean": true,
+    "old_reports_removed": true,
+    "no_old_version_mentions": true,
+    "reflection_uses_s": true,
+    "reflection_frequency_fixed": true,
+    "reflection_echo_audio_present": true,
+    "reflection_echo_tip_present": true,
+    "reflection_normal_line_present": true,
+    "reflection_wall_type_top": true,
+    "reflection_wavefront_wide": true,
+    "no_broken_html_links": true,
+    "visualizer_pages_ok": true,
+    "control_listeners_ok": true,
+    "menu_count_21": true,
+    "menu_unique": true
+  },
+  "details": {
+    "syntax": {
+      "app.js": "ok",
+      "sw.js": "ok"
+    },
+    "broken_links": [],
+    "visualizer_page_issues": {},
+    "missing_control_listeners": [],
+    "old_version_mentions": [],
+    "menu_count": 21,
+    "html_files": 33,
+    "visualizer_pages": 25
+  }
+}
